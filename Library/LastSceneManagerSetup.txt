@@ -1,0 +1,6 @@
+sceneSetups:
+- path: C:/Users/vitur/Desktop/Development/Unity/Backed up projects/RealMRush/Assets/Scenes/Main
+    expScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
